@@ -35,6 +35,9 @@ The goal is to predict students' exam scores based on the number of study hours 
 ✅ The linear model performed slightly better, with a simple and accurate fit.  
 The polynomial model added curve flexibility but did not outperform the linear one in this case.
 
+## ✍️ How to Use
+You can modify the dataset or model parameters (like polynomial degree) inside the script to explore different results.
+For example, try degree=3 in PolynomialFeatures for better flexibility.
 ## 📈 Visualizations
 
 ![plot](preview.png)
