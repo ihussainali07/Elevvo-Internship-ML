@@ -3,8 +3,6 @@
 This project is part of my 30-Day Machine Learning Challenge with Elevvo Internship.  
 The goal is to predict students' exam scores based on the number of study hours using linear and polynomial regression.
 
----
-
 ## 💡 Project Objective
 
 - Predict exam scores using:
@@ -12,9 +10,7 @@ The goal is to predict students' exam scores based on the number of study hours 
   - ✅ Polynomial Regression (Bonus)
 - Evaluate and compare both models
 - Visualize the relationship and model predictions
-
----
-
+  
 ## 📊 Dataset
 
 - Source: [Student Scores Dataset](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
@@ -22,17 +18,13 @@ The goal is to predict students' exam scores based on the number of study hours 
   - `Hours`: Hours studied
   - `Scores`: Exam results
 
----
-
 ## 🧠 Tools & Libraries
 
 - Python  
 - Pandas, NumPy  
 - Matplotlib  
 - Scikit-learn (LinearRegression, PolynomialFeatures, model evaluation tools)
-
----
-
+  
 ## ✅ Results
 
 | Model               | MSE   | R² Score |
@@ -42,8 +34,6 @@ The goal is to predict students' exam scores based on the number of study hours 
 
 ✅ The linear model performed slightly better, with a simple and accurate fit.  
 The polynomial model added curve flexibility but did not outperform the linear one in this case.
-
----
 
 ## 📈 Visualizations
 
