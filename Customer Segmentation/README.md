@@ -48,5 +48,6 @@ python customer_segmentation.py
 
 ## 🔍 Visualization
 
-![plot](
-
+![plot](01.png)
+![plot](02.png)
+![plot](03.png)
