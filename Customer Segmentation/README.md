@@ -42,9 +42,9 @@ python customer_segmentation.py
 ## 📦 Project Structure
 
 📁 Customer-Segmentation-Project/
-- Mall_Customers.csv
-- customer_segmentation.py
-- README.md
+- Mall_Customers.csv  (data of customers)
+- customer_segmentation.py  (main script file)
+- README.md  (Readme file)
 
 ## 🔍 Visualization
 
