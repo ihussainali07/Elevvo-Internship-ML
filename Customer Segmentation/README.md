@@ -29,3 +29,21 @@ This project uses unsupervised machine learning to segment mall customers based 
 2. Install the required libraries:
    ```bash
    pip install pandas matplotlib scikit-learn
+3. Place Mall_Customers.csv in the working directory.
+4. Run the script:
+python customer_segmentation.py
+
+## 🧠 Libraries Used
+
+- pandas – Data handling
+- matplotlib – Visualization
+- scikit-learn – Clustering & preprocessing
+
+## 📦 Project Structure
+
+📁 Customer-Segmentation-Project/
+│
+├── Mall_Customers.csv
+├── customer_segmentation.py
+└── README.md
+
